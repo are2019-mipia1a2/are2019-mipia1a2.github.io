@@ -22,4 +22,4 @@
 
 [Lotka Volterra](https://are2019-mipia1a2.github.io/Lotka-Volterra/) ([présentation](docs/Lotka.pdf),[github](https://github.com/are2019-mipia1a2/Lotka-Volterra/))
 
-[La confiance](https://are2019-mipia1a2.github.io/la_confiance) ([présentation](docs/conf.pdf),[github](https://github.com/are2019-mipia1a2/la_confiance/))
+[La confiance](https://are2019-mipia1a2.github.io/LA-CONFIANCE) ([présentation](docs/conf.pdf),[github](https://github.com/are2019-mipia1a2/la_confiance/))
